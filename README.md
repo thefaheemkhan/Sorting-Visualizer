@@ -1,4 +1,6 @@
 # Sorting Visualization
+
+## Have a look our Sorting Visualizer - https://sortingvisualizer-react.netlify.app
 ### This is a simple visualization project made using javascript 
 - Bubble Sort 
 - Selection Sort
